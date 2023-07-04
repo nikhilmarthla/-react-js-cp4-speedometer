@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.buttons {
+  cursor: pointer;
+  outline: none;
+}
+.acc-button {
+  background-color: rgb(65, 65, 129);
+  color: aliceblue;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+.break-button {
+  background-color: transparent;
+  color: white;
+  border-radius: 5px;
+}
+.image {
+  width: 50%;
+}
+.bg-container {
+  background-color: black;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.buttons-container {
+  display: flex;
+  justify-content: center;
+}
+.heading {
+  color: aliceblue;
+  font-size: 32px;
+}
+.heading-2 {
+  color: aliceblue;
+  font-size: 22px;
+}
+.para {
+  color: gray;
+}
